@@ -1,3 +1,4 @@
 # ELSpring2016
-Template for Spring 2016 Embedded Linux class
-This is a template for students to clone for their work in the class. You should maintain the directory structure
+This is the main README file for Amitoz Deol(N02744073).
+All the Basic details for the project will be in there.  
+
